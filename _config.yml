@@ -1,9 +1,8 @@
 # Site
-name: 'Mundana'
-description: 'Mundana.'
+name: 'AleDataLab'
+description: 'WIP'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl:/
 
 include: ["_pages"]
 permalink: /:title/
